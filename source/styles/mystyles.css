@@ -52,7 +52,7 @@
 
 
 .nav-item{
-    background: url('/source/images/bg-3.jpg') center center/cover no-repeat content-box;
+    background: url('source/images/bg-3.jpg') center center/cover no-repeat content-box;
     text-align: center;
 }
 .nav-link{
@@ -68,7 +68,7 @@
 }
 
 .nav-item-active{
-    background: url('/source/images/bg-3.jpg') center center/cover no-repeat content-box;
+    background: url('source/images/bg-3.jpg') center center/cover no-repeat content-box;
     text-align: center;
 }
 .navbar{
@@ -79,7 +79,7 @@
 }
 
 body{
-    background: url('/source/images/backgrpound-1.jpg') center center no-repeat fixed;
+    background: url('source/images/backgrpound-1.jpg') center center no-repeat fixed;
     background-size: cover;
     height: 100%;
     position: relative;
@@ -92,12 +92,12 @@ body{
 .card{
     color: white;
     text-align: center;
-    background: url('/source/images/bg-card.jpg') center/cover;
+    background: url('source/images/bg-card.jpg') center/cover;
 }
 
 /* о нас */
 .opisanie{
-    background: url('/source/images/bg-card.jpg') center/cover;
+    background: url('source/images/bg-card.jpg') center/cover;
     text-align: center;
 }
 table{
@@ -109,7 +109,7 @@ table{
 
 /* подвал сайта */
 .footer-background{
-    background: url('/source/images/bg-nav.jpg') center center;
+    background: url('source/images/bg-nav.jpg') center center;
     background-size: cover;
     margin: auto auto; 
 }
