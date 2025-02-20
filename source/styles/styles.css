@@ -47,7 +47,7 @@
 
 
 .nav-item{
-    background: url(/source/images/bg-3.jpg) center center/cover no-repeat content-box;
+    background: url(../images/bg-3.jpg) center center/cover no-repeat content-box;
     text-align: center;
 }
 .nav-link{
@@ -56,14 +56,14 @@
 }
 .navbar.navbar-expand-lg{
     --bs-bg-opacity: 1;
-    background: #ffffff url(/source/images/bg-nav.jpg) center center/cover no-repeat content-box;
+    background: #ffffff url(../images/bg-nav.jpg) center center/cover no-repeat content-box;
 }
 .navbar-nav .nav-link.active, .navbar-nav .nav-link.show {
     color: rgb(255, 255, 255);
 }
 
 .nav-item-active{
-    background: url(/source/images/bg-3.jpg) center center/cover no-repeat content-box;
+    background: url(../images/bg-3.jpg) center center/cover no-repeat content-box;
     text-align: center;
 }
 .navbar{
@@ -84,7 +84,7 @@ body{
 
 /* подвал сайта */
 .footer-background{
-    background: url(/source/images/bg-nav.jpg) center center;
+    background: url(../images/bg-nav.jpg) center center;
     background-size: cover;
     margin: auto auto; 
 }
